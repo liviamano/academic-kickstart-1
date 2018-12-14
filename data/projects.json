@@ -1,0 +1,40 @@
+[
+  {
+    "category": "Discourse and argumentation",
+    "projects": [
+      {
+        "name": "valida",
+        "shortDesc": "Agurmentation Analysis for Deliberative Democracy.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "publications": [],
+        "team": []
+      },
+      {
+        "name": "Seculative Execution",
+        "shortDesc": "Interactive Optimization of Machine Learning Processes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "publications": [],
+        "team": []
+      }
+    ]
+  },
+  {
+    "category": "Interactive Machine Learning",
+    "projects": [
+      {
+        "title": "Question Interfaces",
+        "shortDesc": "Question classification and analysis",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "publications": [],
+        "team": []
+      },
+      {
+        "name": "Verbalization",
+        "shortDesc": "A Complementary Medium to Visualizations",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "publications": [],
+        "team": []
+      }
+    ]
+  }
+]

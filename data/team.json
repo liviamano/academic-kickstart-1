@@ -1,0 +1,195 @@
+[
+  {
+    "sectionName": "Core Computer Science",
+    "persons": [
+      {
+        "name": "Menna El-Assady",
+        "image": "el-assady",
+        "webPage": "vis.uni-konstanz.de",
+        "twitter": "vis.uni-konstanz.de",
+        "publication": ""
+      },
+      {
+        "name": "Rita Sevastjanova",
+        "image": "sevastjanova",
+        "webPage": "vis.uni-konstanz.de",
+        "twitter": "vis.uni-konstanz.de",
+        "publication": ""
+      },
+      {
+        "name": "Fabian Sperrle",
+        "image": "sperrle",
+        "webPage": "vis.uni-konstanz.de",
+        "twitter": "vis.uni-konstanz.de",
+        "publication": ""
+      },
+      {
+        "name": "Rebecca Kehlbeck",
+        "image": "pic",
+        "webPage": "vis.uni-konstanz.de",
+        "twitter": "vis.uni-konstanz.de",
+        "publication": ""
+      }
+    ]
+  },
+  {
+    "sectionName": "Core Linguistic",
+    "persons": [
+      {
+        "name": "Anette Hauthi-Joritz",
+        "image": "annette",
+        "webPage": "http://ling.uni-konstanz.de/pages/home/hautli/"
+      },
+      {
+        "name": "Katerina Kalouli",
+        "image": "pic",
+        "webPage": "http://ling.uni-konstanz.de/pages/home/kalouli/"
+      }
+    ]
+  },
+  {
+    "sectionName": "Core Political Science",
+    "persons": [
+      {
+        "name": "Dr. Valentin Gold",
+        "image": "gold",
+        "webPage": "https://scikon.uni-konstanz.de/personen/valentin.gold/"
+      }
+    ]
+  },
+  {
+    "sectionName": "Alumni",
+    "persons": [
+      {
+        "name": "Dr.Christian Rohrdantz",
+        "image": "rohrdantz",
+        "webPage": "https://de.linkedin.com/in/christian-rohrdantz-5622a75a"
+      },
+      {
+        "name": "Wolfgang Jenter",
+        "image": "jentner",
+        "webPage": "https://www.vis.uni-konstanz.de/mitglieder/jentner/"
+      }
+    ]
+  },
+  {
+    "sectionName": "Hiwi",
+    "persons": [
+      {
+        "name": "Livia Mano",
+        "image": "pic",
+        "webPage": "#"
+      },
+      {
+        "name": "Laman Abdullajeva",
+        "image": "pic",
+        "webPage": "#"
+      },
+      {
+        "name": "Sibora Xhema",
+        "image": "pic",
+        "webPage": "#"
+      },
+      {
+        "name": "Ziyaddin Ovchiyev",
+        "image": "pic",
+        "webPage": "#"
+      }
+    ]
+  },
+  {
+    "sectionName": "Alumni Hiwi",
+    "persons": [
+      {
+        "name": "Raphael Buchmüller",
+        "image": "pic",
+        "webPage": "vis.uni-konstanz.de"
+      },
+      {
+        "name": "Carmela",
+        "image": "pic",
+        "webPage": "vis.uni-konstanz.de"
+      },
+      {
+        "name": "Manuel Hotz",
+        "image": "hotz",
+        "webPage": "https://dbis.uni-konstanz.de/people/people/researchers/hotz/"
+      },
+      {
+        "name": "John",
+        "image": "pic",
+        "webPage": "vis.uni-konstanz.de"
+      },
+      {
+        "name": "Moritz Messmer",
+        "image": "pic",
+        "webPage": "#"
+      },
+      {
+        "name": "Yevgen Kuzmenko",
+        "image": "pic",
+        "webPage": "#"
+      },
+      {
+        "name": "Leo Vrana",
+        "image": "pic",
+        "webPage": "#"
+      },
+      {
+        "name": "Alexander Scholl",
+        "image": "pic",
+        "webPage": "#"
+      }
+    ]
+  },
+  {
+    "sectionName": "External collaborator/Guest",
+    "persons": [
+      {
+        "name": "Christopher Collins",
+        "image": "pic",
+        "webPage": "vis.uni-konstanz.de"
+      },
+      {
+        "name": "Brian Pluss",
+        "image": "pic",
+        "webPage": "vis.uni-konstanz.de"
+      },
+      {
+        "name": "Mariana Shimabukuro",
+        "image": "pic",
+        "webPage": "vis.uni-konstanz.de"
+      },
+      {
+        "name": "Chris Read",
+        "image": "pic",
+        "webPage": "vis.uni-konstanz.de"
+      }
+    ]
+  },
+  {
+  "sectionName": "Principal Investigtor",
+  "persons": [
+    {
+      "name": "Prof. Dr. Daniel A. Keim",
+      "image": "keim",
+      "webPage": "https://www.vis.uni-konstanz.de/mitglieder/keim/"
+    },
+    {
+      "name": "Prof. Dr. Miriam Butt",
+      "image": "butt",
+      "webPage": "https://www.ling.uni-konstanz.de/butt/miriam-butt/"
+    },
+    {
+      "name": "Prof. Dr. Katharina Holzinger",
+      "image": "holzinger",
+      "webPage": "https://www.polver.uni-konstanz.de/en/holzinger/contact/katharina-holzinger/"
+    },
+    {
+      "name": "Prof. Dr. Oliver Deussen",
+      "image": "deussen",
+      "webPage": "https://www.cgmi.uni-konstanz.de/personen/prof-dr-oliver-deussen/"
+    }
+  ]
+}
+]

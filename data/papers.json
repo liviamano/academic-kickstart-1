@@ -1,0 +1,110 @@
+[
+  {
+    "path": "papers/specex/paper1.json",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "featured": true,
+    "title": "Distances, Neighborhoods, or Dimensions? Projection Literacy for the Analysis of Multivariate Data.",
+    "authors": [
+      "D. Streeb",
+      "R. Kehlbeck",
+      "D. Jäckle",
+      "M. El-Assady"
+    ],
+    "publicationDetail": "Proceedings of VisxAI: Workshop on Visualization for AI Explainability, 2018.",
+    "bibTex": "http://bib.dbvis.de/publications/bibtex/796",
+    "link": "https://visxprojections.dbvis.de",
+    "image": "distances"
+
+  },
+  {
+    "path": "papers/specex/paper1.json",
+    "tags": [
+      "valida",
+      "specex"
+    ],
+    "featured": true,
+    "title": "Minions, Sheep, and Fruits: Metaphorical Narratives to Explain Artificial Intelligence and Build Trust.",
+    "authors": [
+      "W. Jentner",
+      "R. Sevastjanova",
+      "F. Stoffel",
+      "D. A. Keim",
+      "J. Bernard",
+      "M. El-Assady"
+    ],
+    "publicationDetail": "Workshop on Visualization for AI Explainability, to appear, 2018.",
+    "bibTex": "http://bib.dbvis.de/publications/bibtex/796",
+    "link": "https://visxprojections.dbvis.de",
+    "image": "dbvis"
+  },
+  {
+    "path": "papers/specex/paper1.json",
+    "tags": [
+      "valida",
+      "specex",
+      "tag1"
+    ],
+    "featured": true,
+    "title": "Going beyond Visualization: Verbalization as Complementary Medium to Explain Machine Learning Models.",
+    "authors": [
+      "R. Sevastjanova",
+      "F. Beck",
+      "B. Ell",
+      "C. Turkay",
+      "R. Henkin",
+      "M. Butt",
+      "D. A. Keim",
+      "M. El-Assady"
+    ],
+    "publicationDetail": "Workshop on Visualization for AI Explainability, to appear, 2018.",
+    "bibTex": "http://bib.dbvis.de/publications/bibtex/796",
+    "link": "https://visxprojections.dbvis.de",
+    "image": "dbvis"
+  },
+  {
+    "path": "papers/specex/paper1.json",
+    "tags": [
+      "valida",
+      "specex",
+      "tag1",
+      "tag2",
+      "tag3"
+    ],
+    "featured": true,
+    "title": "Visualisierung von deliberativer Kommunikation: Möglichkeiten und Potenziale für Planungs- und Beteiligungsverfahren.",
+    "authors": [
+      "V. Gold",
+      "M. El-Assady"
+    ],
+    "publicationDetail": "Technologische Trends im Spannungsfeld von Beteiligung — Entscheidung — Planung. Fachforum Digitales Planen und Gestalten",
+    "bibTex": "http://bib.dbvis.de/publications/bibtex/796",
+    "link": "https://visxprojections.dbvis.de",
+    "image": "dbvis"
+  },
+  {
+    "path": "papers/specex/paper1.json",
+    "tags": [
+      "valida",
+      "specex"
+    ],
+    "featured": true,
+    "title": "Mixed-Initiative Active Learning for Generating Linguistic Insights in Question Classification.",
+    "authors": [
+      "R. Sevastjanova",
+      "M. El-Assady",
+      "A. Hautli",
+      "A.-L. Kalouli",
+      "R. Kehlbeck",
+      "O. Deussen",
+      "D. A. Keim",
+      "M. Butt"
+    ],
+    "publicationDetail": "DSIA: Data Systems for Interactive Analysis, to appear, 2018.",
+    "bibTex": "http://bib.dbvis.de/publications/bibtex/796",
+    "link": "https://visxprojections.dbvis.de",
+    "image": "dbvis"
+  }
+]
